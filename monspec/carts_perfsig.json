@@ -4,7 +4,7 @@
             "timeseriesId" : "com.dynatrace.builtin:service.responsetime",
             "aggregation" : "avg",
             "tags" : "service:carts,environment:dev",
-            "upperLimit" : 800.0,
+            "upperLimit" : 1200.0,
             "lowerLimit" : 600.0
         },
         {

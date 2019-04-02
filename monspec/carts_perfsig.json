@@ -5,7 +5,7 @@
             "aggregation" : "avg",
             "tags" : "service:carts,environment:dev",
             "upperLimit" : 4000.0,
-            "lowerLimit" : 600.0
+            "lowerLimit" : 5.0
         },
         {
             "timeseriesId" : "com.dynatrace.builtin:service.failurerate",
